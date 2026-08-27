@@ -1,6 +1,5 @@
-x=float(input("Enter number 1 : "))
-y=float(input("Enter number 2 : "))
-
+x=float(input("Enter first number: "))
+y=float(input("Enter second number: "))
 while True:
 	n=input("Enter the operation \n1) addition\n2)subtraction\n3)multiplication\n4)division\n5)EXIT\n")
 	if n == "1":
